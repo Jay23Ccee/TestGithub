@@ -1,2 +1,6 @@
 # TestGithub
-Just testing
+
+
+cmd line to github. readme file.
+
+
